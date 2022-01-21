@@ -2,7 +2,7 @@
 const mood = 'Criando REST-APIs em ExpressJS e me divertindo :)';
   ```
 
-## :relaxed: Mais sobre mim
+## :relaxed: Mais sobre mim/About me
 
 
 <img align="right" width="200" height="200" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
@@ -10,9 +10,9 @@ const mood = 'Criando REST-APIs em ExpressJS e me divertindo :)';
 ```javascript
 class Davi {
  constructor(){
-  this.nome = 'Davi Sousa Ferreira';
+  this.name = 'Davi Sousa Ferreira';
  
-  this.conhecimentos = ['NodeJS', 'ExpressJS', 'Angular', 'MySQL', 'MongoDB'];//+
+  this.knowledges = ['NodeJS', 'ExpressJS', 'Angular', 'MySQL', 'MongoDB'];//+
  
   this.learning = ['VueJS', 'Tailwind CSS'];
  }
