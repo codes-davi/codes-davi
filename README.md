@@ -25,6 +25,7 @@ class Davi {
 <code><img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></code>
 <code><img height = "30" src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+
 <code><img height = "30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
