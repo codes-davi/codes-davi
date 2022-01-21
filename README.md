@@ -1,31 +1,35 @@
-<Fascinado em criar aplicações em Web com NodeJS e Angular/>
+```javascript 
+const main = 'Fascinado em criar aplicações Web com NodeJS e Angular';
+  ```
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## :relaxed: Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+<img align="right" width="200" height="200" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 
 ```javascript
 class Davi {
- const nome = "Davi Sousa Ferreira";
+ constructor(){
+  this.nome = 'Davi Sousa Ferreira';
  
- let conhecimentos = ['NodeJS', 'ExpressJS', 'Angular', 'MySQL', 'MongoDB'];
+  this.conhecimentos = ['NodeJS', 'ExpressJS', 'Angular', 'MySQL', 'MongoDB'];//+
  
- let learning = ['VueJS', 'Tailwind CSS'];
+  this.learning = ['VueJS', 'Tailwind CSS'];
+ }
 }
 ```
 
 ## **Linguagens e Ferramentas:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></code>
+<code><img height = "30" src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height = "30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
+
 
 
 ## **GitHub Estatísticas**
@@ -38,11 +42,6 @@ class Davi {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codes-davi&show_icons=true&theme=dracula&line_height=27" alt="codes-davi github stats"/>
 </a>
 
-[instagram]: https://www.instagram.com/davi.ssousa/
-[linkedin]: https://www.linkedin.com/in/davi-sousa-59387118b/
-<br>
+---------------------------------------------------------------------------------
 
-#### Rede Sociais!
-
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+<a href="https://www.linkedin.com/in/davi-sousa-59387118b/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
