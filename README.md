@@ -1,5 +1,5 @@
 ```javascript 
-const main = 'Criando Aplicações em NodeJS e me divertindo :)';
+const mood = 'Criando APIs REST em ExpressJS e me divertindo :)';
   ```
 
 ## :relaxed: Mais sobre mim
