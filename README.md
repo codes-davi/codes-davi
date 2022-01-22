@@ -14,7 +14,7 @@ class Davi {
  
   this.knowledges = ['NodeJS', 'ExpressJS', 'Angular', 'MySQL', 'MongoDB'];//+
  
-  this.learning = ['VueJS', 'Tailwind CSS'];
+  this.learning = ['VueJS'];
  }
 }
 ```
