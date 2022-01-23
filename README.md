@@ -1,8 +1,8 @@
 ```javascript 
-const mood = 'Criando REST-APIs em ExpressJS e me divertindo :)';
+const mood = 'Building Rest-Apis :)';
   ```
 
-## :relaxed: Mais sobre mim/About me
+## :relaxed: About me
 
 
 <img align="right" width="200" height="200" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
@@ -19,7 +19,7 @@ class Davi {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Stack:**  
 
 <code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></code>
