@@ -1,5 +1,5 @@
 ```javascript 
-const mood = 'Building Rest-Apis :)';
+const mood = 'Learning new stuffs =) ';
   ```
 
 ## :relaxed: About me
