@@ -14,7 +14,7 @@ class Davi {
  
   this.knowledges = ['NodeJS', 'ExpressJS', 'Angular', 'MySQL', 'MongoDB'];//+
  
-  this.learning = ['AWS', 'Python'];
+  this.learning = ['AWS', 'Python', 'Solidity'];
  }
 }
 ```
