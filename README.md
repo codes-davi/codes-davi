@@ -15,6 +15,8 @@ class Davi {
   this.knowledges = ['NodeJS', 'ExpressJS', 'Angular', 'Python', 'MySQL', 'MongoDB'];//+
  
   this.learning = ['AWS', 'Solidity', 'Svelte'];
+  
+  this.goal = "On my way to become a blockchain developer"
  }
 }
 ```
