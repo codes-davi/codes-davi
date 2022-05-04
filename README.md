@@ -2,7 +2,7 @@
 const mood = 'Learning new stuffs =) ';
   ```
 
-## :relaxed: About me
+## :bridge_at_night: About me
 
 
 <img align="right" width="200" height="200" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
@@ -12,9 +12,9 @@ class Davi {
  constructor(){
   this.name = 'Davi Sousa Ferreira';
  
-  this.knowledges = ['NodeJS', 'ExpressJS', 'Angular', 'MySQL', 'MongoDB'];//+
+  this.knowledges = ['NodeJS', 'ExpressJS', 'Angular', 'Python', 'MySQL', 'MongoDB'];//+
  
-  this.learning = ['AWS', 'Python', 'Solidity'];
+  this.learning = ['AWS', 'Solidity'];
  }
 }
 ```
@@ -23,15 +23,13 @@ class Davi {
 
 <code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></code>
-<code><img height = "30" src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img height = "30" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
 
-<code><img height = "30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
+<code><img height = "30" src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"></code>
+
 <code><img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
-
 
 
 ## **GitHub Estatísticas**
