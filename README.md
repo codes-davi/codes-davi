@@ -1,5 +1,5 @@
-```javascript 
-const mood = 'Learning new stuffs =) ';
+```dart 
+const String mood = 'in-depth study of Mobile development.';
   ```
 
 ## :bridge_at_night: About me
@@ -7,17 +7,15 @@ const mood = 'Learning new stuffs =) ';
 
 <img align="right" width="200" height="200" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 
-```javascript
-class Davi {
- constructor(){
-  this.name = 'Davi Sousa Ferreira';
+```dart
+class About {
+  String name = 'Davi Sousa';
  
-  this.knowledges = ['NodeJS', 'ExpressJS', 'Angular', 'Python', 'MySQL', 'MongoDB'];//+
+  List<String> knowledges = ['NodeJS', 'ExpressJS', 'AWS', 'Angular', 'Python', 'MySQL', 'MongoDB'];//+
  
-  this.learning = ['AWS', 'Solidity', 'Svelte'];
+  List<String> learning = ['Dart', 'Flutter', 'Svelte'];
   
-  this.goal = "On my way to become a blockchain developer"
- }
+  String goal = "Become a Mobile Developer.";
 }
 ```
 
